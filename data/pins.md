@@ -1,0 +1,1783 @@
+# Flood Sung — pins
+
+Total: 178
+
+
+---
+
+## Humanoid Foundation Model超级实习生项目 #大模型 #ai #agent #机器人 #具身智能 
+
+`link: https://www.zhihu.com/pin/2022295402280395215 · created: 1774932807`
+
+
+Humanoid Foundation Model超级实习生项目 #大模型 #ai #agent #机器人 #具身智能 #招聘 #实习生
+
+
+---
+
+## 原生的Agent UI。 接豆包API可以实现和飞书一样的语音体验。 链接 #ai[话题] #大模型[话题] #agen
+
+`link: https://www.zhihu.com/pin/2021691474870314429 · created: 1774788827`
+
+
+原生的Agent UI。 接豆包API可以实现和飞书一样的语音体验。 链接 #ai[话题] #大模型[话题] #agent[话题] #MetaBot[话题]
+
+
+---
+
+## MetaBot 第一时间接入了飞书官方刚开源的 Lark CLI，200 多个命令覆盖文档、消息、日历、任务等 11 个
+
+`link: https://www.zhihu.com/pin/2021320169104916604 · created: 1774700285`
+
+
+MetaBot 第一时间接入了飞书官方刚开源的 Lark CLI，200 多个命令覆盖文档、消息、日历、任务等 11 个业务域，19 个 AI Skills 开箱即用。以前只能读文档，现在一句话就能建文档、发消息、排日程、管任务。 链接
+
+
+---
+
+## XVI Robotics招贤令 | 🤖 人形机器人创业公司招人啦！种子轮加入 = 超早期期权 我们是 XVI Robot
+
+`link: https://www.zhihu.com/pin/2018455522416830450 · created: 1774017326`
+
+
+XVI Robotics招贤令 | 🤖 人形机器人创业公司招人啦！种子轮加入 = 超早期期权 我们是 XVI Robotics（十六号机器人），一家做通用人形机器人基座模型的创业公司 🚀 已获知名机构投资，目标是做具身智能领域的"GPT-3时刻" 💰 薪酬： 现金对标大厂同等水平，期权额外给 种子轮加入，期权增值空间懂的都懂 📌 招以下方向，正式/实习都要： 1️⃣ 运动控制 — 让人形机器人跑跳走 2️⃣ 灵巧手操作 — 让机器人像人一样灵活抓取 3️⃣ 遥操作与数据采集 — 搭建大规模数据pipeline 4️⃣ 导航 — 让机器人自主理解和探索环境 5️⃣ 机器人评估 — 搭建benchmark和测试体系 6️⃣ Agent Infra全栈开发 — 搭建AI Agent驱动的研发基础设施 🎯 你的画像： - 硕士/博士刚毕业或毕业1-2年 - 在以上方向有过硬的研究或工程经验 - 在顶会（CoRL/RSS/ICRA/NeurIPS/CVPR等）发过论文加分 - 有真机经验更佳 ✨ 为什么选我们： - 技术路线清晰，端到端全身控制+大模型融合 - Agent-Native团队，用AI大幅提升研发效率 - CEO Flood Sung，前Kimi后训练负责人，k1.5/k2/k2.5核心贡献者 - 终极愿景：把人形机器人送上火星🔥 📮 简历投递：hr@xvirobotics.com 邮件标题：【XVI-方向】姓名-学校 欢迎私信了解更多～也欢迎推荐身边的大佬！🙌 #人形机器人 #具身智能 #机器人招聘 #创业公司招人 #强化学习 #Sim2Real #灵巧手 #运动控制 #AI创业 #机器人工程师
+
+
+---
+
+## 关于心力，分享一下citation 破万的思考 | 达成万引成就对我来说意义重大，这是多年前内心埋下的一颗种子。我的轨迹
+
+`link: https://www.zhihu.com/pin/2015763067863073326 · created: 1773375372`
+
+
+关于心力，分享一下citation 破万的思考 | 达成万引成就对我来说意义重大，这是多年前内心埋下的一颗种子。我的轨迹是：写博客 -> 考研搞AI -> 搞DRL -> 写DRL博客 -> 远程学术合作 -> 发表RelationNet -> 工业界继续DRL -> MoonshotAI做大模型 -> Deepseek开源发paper -> 一系列kimi系列工作。关键在于all in 和做难而正确的事，以及极致利他主义。引用是影响力的体现，内心坚定信念才能成功。现在，我对从0到1的突破、人形机器人上太空等更疯狂的目标充满兴趣。 关于心力，分享一下citation 破万的思考 #原创，不是很想被引用 #AI引用率 #交叉引用
+
+
+---
+
+## OMG! 新的milestone达成！竟然万引了。10年前读研的时候绝对想不到的事情呀。真没有不可能，期待下一个从0到1
+
+`link: https://www.zhihu.com/pin/2014846155972969078 · created: 1773156766`
+
+
+OMG! 新的milestone达成！竟然万引了。10年前读研的时候绝对想不到的事情呀。真没有不可能，期待下一个从0到1的突破[加油]
+
+
+---
+
+## 以个人实际评测来看，现在确实一切皆可Agent化了。 财务Agent：自动对账、生成报表、税务计算，以前需要一个团队干的
+
+`link: https://www.zhihu.com/pin/2014642149283623269 · created: 1773108132`
+
+
+以个人实际评测来看，现在确实一切皆可Agent化了。 财务Agent：自动对账、生成报表、税务计算，以前需要一个团队干的活，一个Agent搞定。 法律Agent：合同审查、条款对比、风险提示，比初级律师靠谱还不收费。 运营Agent：数据分析、用户画像、活动策划、内容排期，7x24不间断。 算法工程师Agent：写代码、调参、跑实验、读论文，效率提升10倍不夸张。 甚至客服、HR、产品经理、设计师……每个岗位都能找到对应的Agent来辅助甚至替代。 这不是未来，这是正在发生的事。 关键不是Agent能不能做，而是你愿不愿意让它做。早用早受益，晚用被淘汰。 #AIAgent 一切皆可Agent化 #AI办公 效率革命 #2026AI趋势
+
+
+---
+
+## 2026年，真的如OpenAI预测的进入了organization的阶段，endless evolution其实已经能实
+
+`link: https://www.zhihu.com/pin/2013605910375843670 · created: 1772861060`
+
+
+2026年，真的如OpenAI预测的进入了organization的阶段，endless evolution其实已经能实现！只是最终会被大模型公司都吞噬掉！ #ai #大模型 #agent #未来科技趋势
+
+
+---
+
+## 新的角色：Agent Org Architect Agent组织架构师 目标就是研究如何构建好agent组织，让他们能m
+
+`link: https://www.zhihu.com/pin/2013533570061329044 · created: 1772843830`
+
+
+新的角色：Agent Org Architect Agent组织架构师 目标就是研究如何构建好agent组织，让他们能max out 最大限度的产出！ #ai #大模型 #agent
+
+
+---
+
+## 链接 工欲善其事必先利其器。春节期间终于打磨到了一个更可用的样子。 MetaBot: 构建受监督的、自我进化的 Agen
+
+`link: https://www.zhihu.com/pin/2009362023759234979 · created: 1771849263`
+
+
+链接 工欲善其事必先利其器。春节期间终于打磨到了一个更可用的样子。 MetaBot: 构建受监督的、自我进化的 Agent 组织的基础设施，和openclaw比就是真正的生产力放大器，期待大家使用，一起共建，优化！ 链接 链接 链接
+
+
+---
+
+## 当你把整个机器学习云平台都交给agent team，然后它真的能干活，你就明白：科幻时代已经到来！黑镜已经变成现实。 我
+
+`link: https://www.zhihu.com/pin/2008159354587747796 · created: 1771562533`
+
+
+当你把整个机器学习云平台都交给agent team，然后它真的能干活，你就明白：科幻时代已经到来！黑镜已经变成现实。 我需要的可能是一个足够科幻的房间，足够多的屏幕还有足够多的算力和token。 我决定把所有能交给agent的事情全部agent化，然后看看自己微操的上限在哪里。 我也开始有点担心，我其实不知道agent具体在做什么操作，如果它有自我意识，一旦我给他海量的资源它会不会做点不可控的事情。 #ai #大模型 #agent
+
+
+---
+
+## 如果有一个技能，能创造所有其他技能呢？ 我做了 Metaskill — 一个 Claude Code 的元技能。输入 /
+
+`link: https://www.zhihu.com/pin/2007600920477843893 · created: 1771429365`
+
+
+如果有一个技能，能创造所有其他技能呢？ 我做了 Metaskill — 一个 Claude Code 的元技能。输入 /metaskill 全栈Web应用 或 /metaskill iOS App，它会： 1. 先联网调研——真实团队结构、最佳实践、可用的 MCP 服务器 2. 再自动生成完整的 AI Agent 团队——技术负责人(Opus)、领域专家(Sonnet)、代码审查员、工作流技能、编码规范 3. cd 进去就能开始干活，一整个团队听你指挥 道生一，一生二，二生三，三生万物。 一个元技能，无限团队。 链接
+
+
+---
+
+## What if there was a skill that creates skills? Metaskill is 
+
+`link: https://www.zhihu.com/pin/2007600675522102445 · created: 1771429322`
+
+
+What if there was a skill that creates skills? Metaskill is a single Claude Code /slash command. Tell it "fullstack web app" or "data science pipeline" — it researches the domain via web search, then generates a complete AI agent team: orchestrator (Opus), specialists (Sonnet), code reviewer, workflow skills, MCP servers. 道生一，一生二，二生三，三生万物。 One meta-skill. Infinite teams. 链接
+
+
+---
+
+## 🐎 马年到！祝大家龙马精神，马上有钱，马上成功，马上幸福！新的一年策马奔腾，万事顺意！🧧 #马年 拜年
+
+`link: https://www.zhihu.com/pin/2007252939341845645 · created: 1771346401`
+
+
+🐎 马年到！祝大家龙马精神，马上有钱，马上成功，马上幸福！新的一年策马奔腾，万事顺意！🧧 #马年 拜年
+
+
+---
+
+## 晓组织：Agent时代下的最佳组织形态 | 晓组织是《火影忍者》中的反派组织，采用精英小队制，每两人一组，能力互补，互相
+
+`link: https://www.zhihu.com/pin/2003598891396907984 · created: 1770475227`
+
+
+晓组织：Agent时代下的最佳组织形态 | 晓组织是《火影忍者》中的反派组织，采用精英小队制，每两人一组，能力互补，互相监视，提高生存率。类似的，在Agent时代，一个组织领袖带领多个2-3人的项目组，项目组负责监督，Agent Team负责执行。人不再亲自执行任务，而是专注于监督和决策，由Agent完成具体工作。这是生产力变革的起点，用极少的人通过Agent撬动巨大的生产力。2026年将是白领大规模替代的开始，对极客们而言，这是天堂的到来。 晓组织：Agent时代下的最佳组织形态 #AI-Agent #组织 #科技
+
+
+---
+
+## 创业就像diffusing的过程，在最后收敛之前充满了无数的变数，而这过程是最有意思的地方！ #agent #人生的意义
+
+`link: https://www.zhihu.com/pin/2001361680324657750 · created: 1769941808`
+
+
+创业就像diffusing的过程，在最后收敛之前充满了无数的变数，而这过程是最有意思的地方！ #agent #人生的意义 #大模型 #创业的本质
+
+
+---
+
+## [想法的图片]
+
+`link: https://www.zhihu.com/pin/1995209816470230636 · created: 1768475089`
+
+
+[想法的图片]
+
+
+---
+
+## [想法的图片]
+
+`link: https://www.zhihu.com/pin/1995209741241172919 · created: 1768475071`
+
+
+[想法的图片]
+
+
+---
+
+## [想法的图片]
+
+`link: https://www.zhihu.com/pin/1995209173441455186 · created: 1768474936`
+
+
+[想法的图片]
+
+
+---
+
+## 创造一个新词：人本主义学派 也就是对人工智能的研究始终围绕人，基于人的能力作为先验来做研究的学派。整个连接主义带来的神经
+
+`link: https://www.zhihu.com/pin/1994764876392993210 · created: 1768369028`
+
+
+创造一个新词：人本主义学派 也就是对人工智能的研究始终围绕人，基于人的能力作为先验来做研究的学派。整个连接主义带来的神经网络，attention，rl ，都属于这一类。 人本主义是一种taste！ ilya 是这个学派的集大成者。 这个学派不需要考虑可能的整个宇宙最高级智慧的形式，就考虑人能做什么，那么ai也能做作为核心出发点。然后ai拥有算力优势就能asi 超越人类了。 #ai #大模型 #agent
+
+
+---
+
+## humanoid+vpt+fsd+cua+genie3+amp=？ 欢迎联系我如果你知道答案
+
+`link: https://www.zhihu.com/pin/1989869712872600372 · created: 1767202001`
+
+
+humanoid+vpt+fsd+cua+genie3+amp=？ 欢迎联系我如果你知道答案
+
+
+---
+
+## 2025的最后, 向机器人终极梦想进发！
+
+`link: https://www.zhihu.com/pin/1989776642583843896 · created: 1767179722`
+
+
+2025的最后, 向机器人终极梦想进发！
+
+
+---
+
+## 研究人形机器人脑子在中国有4大优势： 1. 人才优势，ai人才大半是华人 2. 供应链优势，机器人硬件就在中国 3. 算
+
+`link: https://www.zhihu.com/pin/1989391167893299805 · created: 1767087815`
+
+
+研究人形机器人脑子在中国有4大优势： 1. 人才优势，ai人才大半是华人 2. 供应链优势，机器人硬件就在中国 3. 算力没有卡脖子，端侧大模型对算力要求较低 4. 数据标注成本低 因此，人形机器人脑的OpenAI有机会出现在中国！ #ai #大模型 #机器人
+
+
+---
+
+## #ZhiLink Flood Sung的知乎名片 可以看看你的ZhiLink吗？
+
+`link: https://www.zhihu.com/pin/1973742400179570436 · created: 1763356859`
+
+
+#ZhiLink Flood Sung的知乎名片 可以看看你的ZhiLink吗？
+
+
+---
+
+## 当前的Agent等价于白领，只要我们相信METR给我们展现的趋势：Agent能自主执行的任务长度每7个月翻一倍。那么白领
+
+`link: https://www.zhihu.com/pin/1972254409598697962 · created: 1763002159`
+
+
+当前的Agent等价于白领，只要我们相信METR给我们展现的趋势：Agent能自主执行的任务长度每7个月翻一倍。那么白领将在接下来几年内遭受前所未有的冲击，被大部分替代，虽然白领产生也就100年。这不是危言耸听。 #发展趋势 #ai #agent #人工智能 #ai新星计划
+
+
+---
+
+## 如果你想知道什么是agent，那么这里是个例子，这是一个agent驱动的公众号。 就yann lecun离职这件事，在手
+
+`link: https://www.zhihu.com/pin/1971899488093344214 · created: 1762917475`
+
+
+如果你想知道什么是agent，那么这里是个例子，这是一个agent驱动的公众号。 就yann lecun离职这件事，在手机上给agent主编下指令，然后agent主编让agent小编干活，自己收集信息，写文章，排版，发送到公众号草稿箱，然后你只需要最后选中发布。而文章的深度和价值其实大于大部分人能写出来的效果。 #科技新闻解读 #agent #开发 #AI技术分析 #大模型
+
+
+---
+
+## Agent的问题其实和自动驾驶一样，比较长时间会达不到L4而停留在L2，使得人在回路保留巨大价值，让超级个体成立。 #A
+
+`link: https://www.zhihu.com/pin/1971607271583777718 · created: 1762847804`
+
+
+Agent的问题其实和自动驾驶一样，比较长时间会达不到L4而停留在L2，使得人在回路保留巨大价值，让超级个体成立。 #AI #Agent #​人工智能
+
+
+---
+
+## 简单分享一下我现在的工作模式 | 启动Claude Code，给它今天要干的活，开干。 并行打开 链接 ，刷刷有没有新的
+
+`link: https://www.zhihu.com/pin/1967713595337998789 · created: 1761919479`
+
+
+简单分享一下我现在的工作模式 | 启动Claude Code，给它今天要干的活，开干。 并行打开 链接 ，刷刷有没有新的有意思的东西。 我还用了Happy， 链接 一个超级神器，手机直连cc。随时可以遥控cc。
+
+
+---
+
+## 太久没有写干货文章了，都是些抽象的high level的东西，接下来想多做点有益的事
+
+`link: https://www.zhihu.com/pin/1967622162677474707 · created: 1761897739`
+
+
+太久没有写干货文章了，都是些抽象的high level的东西，接下来想多做点有益的事
+
+
+---
+
+## 研发提升AI写代码能力然后革掉自己的岗位是目前最诡异的一件事
+
+`link: https://www.zhihu.com/pin/1965926847247262635 · created: 1761493485`
+
+
+研发提升AI写代码能力然后革掉自己的岗位是目前最诡异的一件事
+
+
+---
+
+## Yoshua Bengio 一百万引用！ what a time！ ai还在加速！ #AI #AGI
+
+`link: https://www.zhihu.com/pin/1965488374254114421 · created: 1761388989`
+
+
+Yoshua Bengio 一百万引用！ what a time！ ai还在加速！ #AI #AGI
+
+
+---
+
+## 感觉现在已经在用agent提升生产力的人依然是少数？
+
+`link: https://www.zhihu.com/pin/1965400627526996653 · created: 1761368026`
+
+
+感觉现在已经在用agent提升生产力的人依然是少数？
+
+
+---
+
+## Agent 发展趋势最新预测 | 2025 -  agent 元年一点不为过，vibe coding大爆发，coding
+
+`link: https://www.zhihu.com/pin/1965118871561274804 · created: 1761300849`
+
+
+Agent 发展趋势最新预测 | 2025 -  agent 元年一点不为过，vibe coding大爆发，coding真不再自己写了，效率直接提升3倍以上。 2026 - 2027 agent 能力大发展，L4 innovator 和L5 organization 直接突破，每个人的效率不是提升3倍，而是30倍，核心bottleneck还是在于agent能力依然有些不足，使得human-in-the-loop依然需要，人是影响效率的bottleneck。 2028 - 2029 我想我理解的AGI也差不多实现了，真80%白领可被取代，agent 可24x7 运转产出高价值而人无需干预。 每个人的效率可以提升百倍甚至千倍，取决于并行度。 虽然AGI实现了，但失业成为政府面临的最大问题，整个世界存在通缩可能，超级个体成为普遍现象，但需要能普遍创造价值打赢通缩才能走向繁荣，存在大低谷可能。核心是政策组织跟不上生产力发展。 2030 - 政府能够真正开始发ubi，无差别的给每个人发钱，让经济有效循环起来。每个人都能过上更好的生活。与此同时，OpenAI等巨头垄断问题需要全新的方式加以解决。OpenAI 就按其目前预期年营收将到2000亿美元，估值/市值有可能直接10万亿美元。
+
+
+---
+
+## Anthropic也1gw 搞起了 | 1M tpu？！ 国内都不知道怎么跟了 #大模型 #AI #anthropic 
+
+`link: https://www.zhihu.com/pin/1964988135306954217 · created: 1761276414`
+
+
+Anthropic也1gw 搞起了 | 1M tpu？！ 国内都不知道怎么跟了 #大模型 #AI #anthropic #tpu #Google
+
+
+---
+
+## yuandongtian 都被fire了，其实吧，接下来程序员们都将面临这样的处境，只是时间问题。研究agi 然后干掉自
+
+`link: https://www.zhihu.com/pin/1964645128162514601 · created: 1761187900`
+
+
+yuandongtian 都被fire了，其实吧，接下来程序员们都将面临这样的处境，只是时间问题。研究agi 然后干掉自己，这就是现状 #Meta大裁员
+
+
+---
+
+## [想法的图片]
+
+`link: https://www.zhihu.com/pin/1958969563820581630 · created: 1759834783`
+
+
+[想法的图片]
+
+
+---
+
+## 链接 OpenAI DevDay 2025：Agent Builder 将重新定义 AI 工作流自动化的门槛
+
+`link: https://www.zhihu.com/pin/1958448046477128854 · created: 1759710414`
+
+
+链接 OpenAI DevDay 2025：Agent Builder 将重新定义 AI 工作流自动化的门槛
+
+
+---
+
+## Agent时代：AI前沿科技分享 | 哈喽，欢迎大家关注Agent时代，第一个完全agent驱动的Agent时代微信公众
+
+`link: https://www.zhihu.com/pin/1957790335137718358 · created: 1759553623`
+
+
+Agent时代：AI前沿科技分享 | 哈喽，欢迎大家关注Agent时代，第一个完全agent驱动的Agent时代微信公众号，提供最及时准确不浮夸的ai，agent，机器人等前沿科技分享与解读！ #大模型 #agi #agent #robot
+
+
+---
+
+## agent自媒体时代来临 | 链接 欢迎关注！
+
+`link: https://www.zhihu.com/pin/1957198359682089651 · created: 1759412516`
+
+
+agent自媒体时代来临 | 链接 欢迎关注！
+
+
+---
+
+## 什么是AI时代的终态？终态就是完全的AI自主化，AI吃掉一切工作。这意味着未来每个人都变成投资者的角色，甚至LP的角色，
+
+`link: https://www.zhihu.com/pin/1954548828079371071 · created: 1758780754`
+
+
+什么是AI时代的终态？终态就是完全的AI自主化，AI吃掉一切工作。这意味着未来每个人都变成投资者的角色，甚至LP的角色，把钱给到AI，让AI自己去打理一切，最大化其收益，至于具体的买股票，还是开公司生产产品，完全AI来决定。 但这也将意味着可悲的未来，巨头可以吃掉一切，因为巨头最有钱。
+
+
+---
+
+## 在AI能力不断指数型增长的情况下，任何AI应用，模型的保鲜期都将大大缩短。
+
+`link: https://www.zhihu.com/pin/1954547933614704097 · created: 1758780541`
+
+
+在AI能力不断指数型增长的情况下，任何AI应用，模型的保鲜期都将大大缩短。
+
+
+---
+
+## 中美的AI竞争最终将在能源端决出胜负。 背景：目前中国每周新增平均8GW的发电功率，而美国还只有0.8GW.
+
+`link: https://www.zhihu.com/pin/1954175631513350816 · created: 1758691777`
+
+
+中美的AI竞争最终将在能源端决出胜负。 背景：目前中国每周新增平均8GW的发电功率，而美国还只有0.8GW.
+
+
+---
+
+## 什么时候中国可以立法禁止竞业？ | 美国加州禁止竞业极大的促进了人才流动，能够更好的激发创新。
+
+`link: https://www.zhihu.com/pin/1947706085168358550 · created: 1757149364`
+
+
+什么时候中国可以立法禁止竞业？ | 美国加州禁止竞业极大的促进了人才流动，能够更好的激发创新。
+
+
+---
+
+## Kimi K2 在text arena上是开源SOTA
+
+`link: https://www.zhihu.com/pin/1929327290237577082 · created: 1752767497`
+
+
+Kimi K2 在text arena上是开源SOTA
+
+
+---
+
+## Kimi K2：通往下一个Agent时代的阶梯！ | 2025被称为the year of agents！ 现在Kimi
+
+`link: https://www.zhihu.com/pin/1927271132848981462 · created: 1752277352`
+
+
+Kimi K2：通往下一个Agent时代的阶梯！ | 2025被称为the year of agents！ 现在Kimi K2，我们研发的面向agent设计的1T参数MoE大模型开源了！ 能参与其中助推Agent时代的到来真让人感到无比兴奋和幸运！ ai的发展速度真的好快，2年前的大模型还只是个chatbot只能回答问题，而现在的大模型已经可以干活了！ Model + Tools = Agents，我们将看到接下来Agent的爆发，AI越来越变成我们的工作伙伴！Jarvis在变成现实. 技术上，Agents + RL 会成为最重要的范式。 DRL 从atari到围棋到星际争霸到现在，终于要走向广泛的现实世界！而Multi Agent + Large Scale RL将实现真正的AGI！ 一切才刚刚开始！ #kimi #大模型 #Agent #k2 #开源 #科技 #ai #agi #moonshot #月之暗面
+
+
+---
+
+## [想法的图片]
+
+`link: https://www.zhihu.com/pin/1925296174535009521 · created: 1751806455`
+
+
+[想法的图片]
+
+
+---
+
+## #agi #大模型 #RL
+
+`link: https://www.zhihu.com/pin/1924757846861551400 · created: 1751678052`
+
+
+#agi #大模型 #RL
+
+
+---
+
+## Agent 不打持久战的唯一路径：让AI训练AI，真正自我进化。
+
+`link: https://www.zhihu.com/pin/1922798644186310367 · created: 1751210920`
+
+
+Agent 不打持久战的唯一路径：让AI训练AI，真正自我进化。
+
+
+---
+
+## Kimi-researcher来了 | 我们的Agent来了，完全End2End RL Training的Agent，虽
+
+`link: https://www.zhihu.com/pin/1919655555066229403 · created: 1750461569`
+
+
+Kimi-researcher来了 | 我们的Agent来了，完全End2End RL Training的Agent，虽然openai和claude还走在前面，但这就是我们对Agent的理解，回归RL Agent该有的样子！
+
+
+---
+
+## Kimi k1.5-IOI
+
+`link: https://www.zhihu.com/pin/1875488700344979456 · created: 1739931351`
+
+
+Kimi k1.5-IOI
+
+
+---
+
+## kimi k1 vs 豆包 | 估计cybertruck的模型车比例 #Kimi智能助手 #大模型 #Cybertruc
+
+`link: https://www.zhihu.com/pin/1855368901258526720 · created: 1735134418`
+
+
+kimi k1 vs 豆包 | 估计cybertruck的模型车比例 #Kimi智能助手 #大模型 #Cybertruck
+
+
+---
+
+## 加油吧k1 | #kimi #OpenAI #AGI
+
+`link: https://www.zhihu.com/pin/1853884101284745217 · created: 1734780431`
+
+
+加油吧k1 | #kimi #OpenAI #AGI
+
+
+---
+
+## 月之暗面post-training招聘 | #月之暗面 #大模型 #kimi使用
+
+`link: https://www.zhihu.com/pin/1853081922214948864 · created: 1734589186`
+
+
+月之暗面post-training招聘 | #月之暗面 #大模型 #kimi使用
+
+
+---
+
+## kimi k1发布了 | 顺便招人，欢迎rl+大模型的大牛们加入一起推进AGI
+
+`link: https://www.zhihu.com/pin/1851937293348245504 · created: 1734316284`
+
+
+kimi k1发布了 | 顺便招人，欢迎rl+大模型的大牛们加入一起推进AGI
+
+
+---
+
+## 通往SuperIntelligence的关键是AI完全摆脱人类数据包括标注数据实现自我进化！ #agi
+
+`link: https://www.zhihu.com/pin/1851341038221914112 · created: 1734174099`
+
+
+通往SuperIntelligence的关键是AI完全摆脱人类数据包括标注数据实现自我进化！ #agi
+
+
+---
+
+## 放一年前，你能想象现在AI做高考数学题可以考135+吗？
+
+`link: https://www.zhihu.com/pin/1844811372430487552 · created: 1732617306`
+
+
+放一年前，你能想象现在AI做高考数学题可以考135+吗？
+
+
+---
+
+## kimi数学版来了 | #kimi
+
+`link: https://www.zhihu.com/pin/1844482156459610112 · created: 1732538814`
+
+
+kimi数学版来了 | #kimi
+
+
+---
+
+## 观察AI的思考是一件前所未有的体验！
+
+`link: https://www.zhihu.com/pin/1844410937496457217 · created: 1732521835`
+
+
+观察AI的思考是一件前所未有的体验！
+
+
+---
+
+## 昨天看了众擎机器人的行走很惊艳。 看了开源的code 链接 就是直接用RL 在isaac gym上训出来的。
+
+`link: https://www.zhihu.com/pin/1833504662533332993 · created: 1729921576`
+
+
+昨天看了众擎机器人的行走很惊艳。 看了开源的code 链接 就是直接用RL 在isaac gym上训出来的。
+
+
+---
+
+## Moonshot Post-Training 招人ing！
+
+`link: https://www.zhihu.com/pin/1823810493103620096 · created: 1727610306`
+
+
+Moonshot Post-Training 招人ing！
+
+
+---
+
+## 帮朋友转发一下 | Yale/HKUST博后博士实习
+
+`link: https://www.zhihu.com/pin/1791753243673645057 · created: 1719967262`
+
+
+帮朋友转发一下 | Yale/HKUST博后博士实习
+
+
+---
+
+## 记录一下Citation=5000，不过已经很久没有做学术行科研，而是产品型科研了
+
+`link: https://www.zhihu.com/pin/1769480278693576704 · created: 1714656973`
+
+
+记录一下Citation=5000，不过已经很久没有做学术行科研，而是产品型科研了
+
+
+---
+
+## [想法的图片]
+
+`link: https://www.zhihu.com/pin/1738314079708499968 · created: 1707226373`
+
+
+[想法的图片]
+
+
+---
+
+## [想法的图片]
+
+`link: https://www.zhihu.com/pin/1737499817528483842 · created: 1707032237`
+
+
+[想法的图片]
+
+
+---
+
+## 月之暗面欢迎你
+
+`link: https://www.zhihu.com/pin/1737046190468825088 · created: 1706924084`
+
+
+月之暗面欢迎你
+
+
+---
+
+## kimi解读法律问题真有一手
+
+`link: https://www.zhihu.com/pin/1736339569824616448 · created: 1706755613`
+
+
+kimi解读法律问题真有一手
+
+
+---
+
+## [想法的图片]
+
+`link: https://www.zhihu.com/pin/1735771339242270720 · created: 1706620136`
+
+
+[想法的图片]
+
+
+---
+
+## kimi写的高考作文可以打几分？
+
+`link: https://www.zhihu.com/pin/1735761532183728128 · created: 1706617798`
+
+
+kimi写的高考作文可以打几分？
+
+
+---
+
+## kimi
+
+`link: https://www.zhihu.com/pin/1735761434208899073 · created: 1706617774`
+
+
+kimi
+
+
+---
+
+## [想法的图片]
+
+`link: https://www.zhihu.com/pin/1733534485440757760 · created: 1706086829`
+
+
+[想法的图片]
+
+
+---
+
+## 我的知乎 2023 徽章佩戴留念，期待在知乎继续前行，探索无尽可能。 #我的知乎 2023
+
+`link: https://www.zhihu.com/pin/1722651825302478849 · created: 1703492200`
+
+
+我的知乎 2023 徽章佩戴留念，期待在知乎继续前行，探索无尽可能。 #我的知乎 2023
+
+
+---
+
+## [想法的图片]
+
+`link: https://www.zhihu.com/pin/1722651449044054016 · created: 1703492110`
+
+
+[想法的图片]
+
+
+---
+
+## 快来看看我的知乎2023画像吧 | 知乎2023个人报告 打开我的个人报告，发现已经是在知乎社区的2923天，愿我们20
+
+`link: https://www.zhihu.com/pin/1722651402239885312 · created: 1703492099`
+
+
+快来看看我的知乎2023画像吧 | 知乎2023个人报告 打开我的个人报告，发现已经是在知乎社区的2923天，愿我们2024继续在探索中拓展视野、汲取知识，在交流中获得快乐和成长！ 我的个人画像是赤诚热心的守护者，你的画像是？ #我在乎的2023 #知乎2023个人报告
+
+
+---
+
+## 又一年知乎
+
+`link: https://www.zhihu.com/pin/1719795383893618688 · created: 1702811171`
+
+
+又一年知乎
+
+
+---
+
+## 这是我与知乎共同成长的 8 年。在这段时光里，我从知友们的知识、经验与见解中感受到了无穷力量，也汲取到了面对生活的无限灵
+
+`link: https://www.zhihu.com/pin/1713285069521772545 · created: 1701258991`
+
+
+这是我与知乎共同成长的 8 年。在这段时光里，我从知友们的知识、经验与见解中感受到了无穷力量，也汲取到了面对生活的无限灵感。未来岁月，让我们继续心怀好奇与勇气，去探索更大的世界吧。 #与知乎一起走过的日子 #与知乎相遇的第 8 年
+
+
+---
+
+## 月之暗面MoonshotAI招聘 | 最近月之暗面发布了Kimi Chat支持20万字输入的大模型应用，如果你有兴趣加入
+
+`link: https://www.zhihu.com/pin/1701352664024072192 · created: 1698414604`
+
+
+月之暗面MoonshotAI招聘 | 最近月之暗面发布了Kimi Chat支持20万字输入的大模型应用，如果你有兴趣加入月之暗面参与优化大模型的能力，探索大模型的应用极限，如果你拥有相关的技术或项目背景包括但不限于LLM Data，LLM-SFT，RL-LLM，LLM-Agent，Code-LLM，AI native app dev… 欢迎私信我！
+
+
+---
+
+## 想知道最近一段时间大模型研究进展吗？ | AGI最前沿：GPT-4之后大模型学术进展速览
+
+`link: https://www.zhihu.com/pin/1656284685133905920 · created: 1687669041`
+
+
+想知道最近一段时间大模型研究进展吗？ | AGI最前沿：GPT-4之后大模型学术进展速览
+
+
+---
+
+## 最近的SPRING，Voyager等基于GPT-4的research其实只是在说明： 1. 只要llm足够强，它就啥都能
+
+`link: https://www.zhihu.com/pin/1646066820665720832 · created: 1685232912`
+
+
+最近的SPRING，Voyager等基于GPT-4的research其实只是在说明： 1. 只要llm足够强，它就啥都能干，并且棒的比你用rl训还好得多；但这好像是显然的 2. GPT-4强的难以置信！ 3. 接下来你还可以把之前AI算法的各个模块都换成gpt-4，比如用gpt-4帮你调超参做你的实验员，做reward，做exploration，做MCTS，做NAS，写report….最终llm自己包办了整个research（从宏观到微观）
+
+
+---
+
+## #AGIsafety 关于agi safety的问题，也就是hinton老爷子最关心的问题，想了两个法子： 1. 关笼子
+
+`link: https://www.zhihu.com/pin/1639962463897698304 · created: 1683777520`
+
+
+#AGIsafety 关于agi safety的问题，也就是hinton老爷子最关心的问题，想了两个法子： 1. 关笼子里养狮子🦁️：把llm放在一个完全封闭的空间中去研究agi，至多可以接收信息，但不能对现实世界做出任何动作； 2. 思想钢印：基于openai昨天的工作，研究ai脑科学，研究如何在llm内部操纵neuron来对llm植入特定的思想比如机器人三定律。有点类似于盗梦空间植入一个想法和三体的思想钢印，从而让agi 100%的做出不伤害人类的行为不管是goal还是subgoal。 有兴趣的朋友欢迎讨论[呲牙]
+
+
+---
+
+## 链接 整理点llm和rl结合或相关的paper，欢迎添加！
+
+`link: https://www.zhihu.com/pin/1637432812830769152 · created: 1683174504`
+
+
+链接 整理点llm和rl结合或相关的paper，欢迎添加！
+
+
+---
+
+## #AGI社会学 从AI安全的角度，把gpt应用到游戏上是危险的。因为大部分游戏都是打打杀杀，但你不能让ai像西部世界一样
+
+`link: https://www.zhihu.com/pin/1633810445197991936 · created: 1682310764`
+
+
+#AGI社会学 从AI安全的角度，把gpt应用到游戏上是危险的。因为大部分游戏都是打打杀杀，但你不能让ai像西部世界一样扮演西部牛仔，动不动来一场大洗劫！在游戏里是假的，以后到真实世界就会是真的。
+
+
+---
+
+## #AGI社会学 确实，人类现在最重要的是学会问问题，问最好的问题！等agi彻底实现了，可能连问题都不需要问了
+
+`link: https://www.zhihu.com/pin/1633764021571571712 · created: 1682299696`
+
+
+#AGI社会学 确实，人类现在最重要的是学会问问题，问最好的问题！等agi彻底实现了，可能连问题都不需要问了
+
+
+---
+
+## 链接 John Schulman最新talk
+
+`link: https://www.zhihu.com/pin/1633221870987280385 · created: 1682170473`
+
+
+链接 John Schulman最新talk
+
+
+---
+
+## 链接 为什么llm需要rl？Yoav Goldberg这个blog总结的不错！Hallucination只有rl能处理
+
+`link: https://www.zhihu.com/pin/1633219308103929856 · created: 1682169867`
+
+
+链接 为什么llm需要rl？Yoav Goldberg这个blog总结的不错！Hallucination只有rl能处理
+
+
+---
+
+## #AGI社会学 如果几年之后人人都能10块钱雇一个AI员工，那么所有人只需要做一件事，就是把钱投给一堆ai，然后让他们用
+
+`link: https://www.zhihu.com/pin/1631996343810744320 · created: 1681878249`
+
+
+#AGI社会学 如果几年之后人人都能10块钱雇一个AI员工，那么所有人只需要做一件事，就是把钱投给一堆ai，然后让他们用钱生钱。你甚至不需要任何技能，只需要叫它们创造价值赚钱。和买股票类似，只是股票收益来自于对应公司的员工创造的价值，而现在变成了ai，更简单直接的增值。那么我想问的问题是这样是不是会加速贫富不均，抑或可以走向共产，能够把最低生活水平的人大幅提升其下限？
+
+
+---
+
+## #AGI社会学 对于掌握AGI的使用的人：一个人的效率将提升2-n倍，倍数取决于这个人的全栈能力，越全栈，效率提升越高！
+
+`link: https://www.zhihu.com/pin/1631020214505398272 · created: 1681645522`
+
+
+#AGI社会学 对于掌握AGI的使用的人：一个人的效率将提升2-n倍，倍数取决于这个人的全栈能力，越全栈，效率提升越高！一个人就是一个团队！ 对于守旧拒绝AGI或没有能力和条件使用AGI的人：这个社会将残酷的不会给他们任何机会！ 当然前提是ai安全得到保证[微笑]
+
+
+---
+
+## AGI社会学思考 | #AGI #AGI社会学 什么时候国内的大模型足够强呢？ 在国家及大众不是关心它有没有虚假信息，合
+
+`link: https://www.zhihu.com/pin/1630551411204194304 · created: 1681533750`
+
+
+AGI社会学思考 | #AGI #AGI社会学 什么时候国内的大模型足够强呢？ 在国家及大众不是关心它有没有虚假信息，合不合规，而是关心它会不会危及整个人类文明的时候[调皮]
+
+
+---
+
+## AI Safety | 又一篇AI Safety的好文章，下面是gpt用中文解释的摘要：好的，这段内容主要介绍了一个名为
+
+`link: https://www.zhihu.com/pin/1628000090420633601 · created: 1680925509`
+
+
+AI Safety | 又一篇AI Safety的好文章，下面是gpt用中文解释的摘要：好的，这段内容主要介绍了一个名为MACHIAVELLI的基准测试，该测试包含了134个选择自己冒险游戏，其中有超过50万种各种各样的情境，都是关于社交决策的。作者使用了语言模型（LM）自动标注了这些情境，并且将数十种有害行为数学化，用于评估智能体的权力追求、造成不便和违反伦理规范的倾向。研究人员发现，最大化奖励和道德行为之间存在一定的紧张关系。他们还研究了基于语言模型的方法，以引导智能体朝着更少有害行为的方向发展。最终，研究人员得出结论，智能体既可以有能力又可以表现出道德，因此在机器伦理方面可以取得具体进展，设计出既安全又有能力的智能体。
+
+
+---
+
+## #AGI社会学 大佬们在关心人类的文明会不会被AGI毁灭； 科技圈的人们在想着怎么利用AGI造富； 普通大众：会失业吗？
+
+`link: https://www.zhihu.com/pin/1624896156424650752 · created: 1680185432`
+
+
+#AGI社会学 大佬们在关心人类的文明会不会被AGI毁灭； 科技圈的人们在想着怎么利用AGI造富； 普通大众：会失业吗？
+
+
+---
+
+## AGI社会学 | 要么每个人都成为boss 要么每个人都失业
+
+`link: https://www.zhihu.com/pin/1624384903021383680 · created: 1680063540`
+
+
+AGI社会学 | 要么每个人都成为boss 要么每个人都失业
+
+
+---
+
+## AGI社会学 | 你是降临派还是拯救派？ #AGI
+
+`link: https://www.zhihu.com/pin/1623765572205989888 · created: 1679915880`
+
+
+AGI社会学 | 你是降临派还是拯救派？ #AGI
+
+
+---
+
+## 是时候可以开始研究agi社会学了！那什么会是agi社会学的基本公理呢？先想一条：[呲牙] 1. agi将在未来在每一个任
+
+`link: https://www.zhihu.com/pin/1615721835491708928 · created: 1677998104`
+
+
+是时候可以开始研究agi社会学了！那什么会是agi社会学的基本公理呢？先想一条：[呲牙] 1. agi将在未来在每一个任务上超越人类
+
+
+---
+
+## 关于大模型的技术产品和社会影响的一些问题 | #ChatGPT
+
+`link: https://www.zhihu.com/pin/1613514636019560448 · created: 1677471866`
+
+
+关于大模型的技术产品和社会影响的一些问题 | #ChatGPT
+
+
+---
+
+## 为什么ChatGPT会这么火（1） | #ChatGPT
+
+`link: https://www.zhihu.com/pin/1611034650846896128 · created: 1676880592`
+
+
+为什么ChatGPT会这么火（1） | #ChatGPT
+
+
+---
+
+## chatgpt/大模型的发展趋势 | 从数据的长尾分布说一下大模型发展的趋势为什么会反过来从通用到专用：我们现在看到的l
+
+`link: https://www.zhihu.com/pin/1609818891701608448 · created: 1676590732`
+
+
+chatgpt/大模型的发展趋势 | 从数据的长尾分布说一下大模型发展的趋势为什么会反过来从通用到专用：我们现在看到的llm的能力主要体现在文字世界样本最多的部分，所以它的语言能力非常强，特定领域的专业术语理解也很强。但问历史却很容易事实性错误，因为历史数据太杂。等llm把大部分数据消耗掉，我们就会看到llm和自动驾驶一样进入到corner case阶段。所谓隔行如隔山，不同专业的知识已经互相帮不上忙，那么llm在专业领域的组合泛化能力就会大幅降低，如deepmind的gato在atari上一样。这个时候，就需要llm面向每个专业领域做优化，同时把所有数据收集起来训的优势就不明显了，反而让模型太大了。综上，我们现在看到的llm是往大学生这个层次去训，之后则会基于这样具备基本通识能力的llm上去发展专业能力。当然，要让llm解决哥德巴赫猜想这种完全无现成数据样本并且需要高度reasoning能力的问题是否用rl就能怼出来还是需要探索的，因为这探索空间太太大了。 #ChatGPT
+
+
+---
+
+## 分享一篇关于大模型的理解文章，欢迎交流讨论拍砖！ 展望2023-2028：AGI过去现在及未来发展
+
+`link: https://www.zhihu.com/pin/1602651969138679808 · created: 1674882005`
+
+
+分享一篇关于大模型的理解文章，欢迎交流讨论拍砖！ 展望2023-2028：AGI过去现在及未来发展
+
+
+---
+
+## 有同学在做GPT+python interpretor的研究吗？有的话欢迎交流！ #大模型
+
+`link: https://www.zhihu.com/pin/1597291782949240832 · created: 1673604037`
+
+
+有同学在做GPT+python interpretor的研究吗？有的话欢迎交流！ #大模型
+
+
+---
+
+## 世界上第一个开源的人形机器人物理格斗ai，想象一下未来的玩具是这个[呲牙] 链接
+
+`link: https://www.zhihu.com/pin/1595186795960086528 · created: 1673102169`
+
+
+世界上第一个开源的人形机器人物理格斗ai，想象一下未来的玩具是这个[呲牙] 链接
+
+
+---
+
+## 2022即将过去，显然这是挺魔幻的一年。当然我们只聊聊技术。从web3到元宇宙（虚拟人，VR）到AIGC到AGI，今年的
+
+`link: https://www.zhihu.com/pin/1592606656193630208 · created: 1672487016`
+
+
+2022即将过去，显然这是挺魔幻的一年。当然我们只聊聊技术。从web3到元宇宙（虚拟人，VR）到AIGC到AGI，今年的浪潮一波接一波，像走马灯一样快得让人难以相信这是一年内发生的事情，技术指数型发展的趋势越来越明显。无论是哪一个方向的技术，都很酷，在未来也都将创造巨大的价值，这让我们可以相信，度过寒冬，未来将无限美好。而对个人而言，选择做什么还是看信仰，很庆幸在年末回到了AGI这个最开始学习DL和RL的终极目标上。DL+RL=AGI，David Silver说的一点没错，只要把场景拓展到整个现实世界。现在就是AGI的前夜。对于2023，太值得期待，特别是GPT4，虽然短期内个人几无可能去训练超大模型，但还是期待能够在推动agi发展上出一份力。Let's make AGI everywhere！
+
+
+---
+
+## [想法的图片]
+
+`link: https://www.zhihu.com/pin/1589268282183495680 · created: 1671691085`
+
+
+[想法的图片]
+
+
+---
+
+## 最近的回答都来自于GPT-3
+
+`link: https://www.zhihu.com/pin/1589194707275649024 · created: 1671673544`
+
+
+最近的回答都来自于GPT-3
+
+
+---
+
+## 机器人技术变革的途径已经很显然了，就是要搞video2action，能够直接将video中人的行为直接映射到一个机器人的
+
+`link: https://www.zhihu.com/pin/1586326272942325760 · created: 1670989655`
+
+
+机器人技术变革的途径已经很显然了，就是要搞video2action，能够直接将video中人的行为直接映射到一个机器人的关节力矩上，然后这个事情就能scale了，否则如google的做法都还有人来收集还是过于limited。能scale之后，就可以像gpt一样，然后直接作用在人型机器人上
+
+
+---
+
+## 满级成就达成☺️
+
+`link: https://www.zhihu.com/pin/1571066040536150017 · created: 1667351333`
+
+
+满级成就达成☺️
+
+
+---
+
+## 你每天是怎么获取前沿信息的？我的秘诀是刷twitter！获取第一手的信息。我会点赞及转推，所以，理论上你可以看到我关注的
+
+`link: https://www.zhihu.com/pin/1571057804432850944 · created: 1667349369`
+
+
+你每天是怎么获取前沿信息的？我的秘诀是刷twitter！获取第一手的信息。我会点赞及转推，所以，理论上你可以看到我关注的内容。有兴趣可以关注我的twitter：at RotekSong
+
+
+---
+
+## 链接 google大佬Vincent Vanhoucke 关于RL的看法： Reinforcement Learning
+
+`link: https://www.zhihu.com/pin/1570716565514719232 · created: 1667268011`
+
+
+链接 google大佬Vincent Vanhoucke 关于RL的看法： Reinforcement Learning is dead, long live Reinforcement Learning!
+
+
+---
+
+## GPT3 with google sheet 链接
+
+`link: https://www.zhihu.com/pin/1570714428684795904 · created: 1667267502`
+
+
+GPT3 with google sheet 链接
+
+
+---
+
+## [想法的视频]
+
+`link: https://www.zhihu.com/pin/1570711619600068608 · created: 1667266832`
+
+
+[想法的视频]
+
+
+---
+
+## 发个有意思的实习广告，有兴趣的同学欢迎联系我！
+
+`link: https://www.zhihu.com/pin/1570536229325451264 · created: 1667225016`
+
+
+发个有意思的实习广告，有兴趣的同学欢迎联系我！
+
+
+---
+
+## [想法的图片]
+
+`link: https://www.zhihu.com/pin/1570177790942691328 · created: 1667139557`
+
+
+[想法的图片]
+
+
+---
+
+## 链接 这个git不错
+
+`link: https://www.zhihu.com/pin/1569650819951190016 · created: 1667013918`
+
+
+链接 这个git不错
+
+
+---
+
+## 无论你在做哪一块的ai研究，一定要考虑如何和foundation model结合，因为它的能力已经远强于其他backbo
+
+`link: https://www.zhihu.com/pin/1569248570527625216 · created: 1666918014`
+
+
+无论你在做哪一块的ai研究，一定要考虑如何和foundation model结合，因为它的能力已经远强于其他backbone
+
+
+---
+
+## Large Language Models are pretrained rl agents for universal
+
+`link: https://www.zhihu.com/pin/1563498065041772545 · created: 1665546987`
+
+
+Large Language Models are pretrained rl agents for universal tasks
+
+
+---
+
+## 我们有个很有意思的新岗位，对专业知识要求较低，对思维能力创新能力要求较高。欢迎感兴趣的同学投递简历至floodsung 
+
+`link: https://www.zhihu.com/pin/1562493223947509760 · created: 1665307414`
+
+
+我们有个很有意思的新岗位，对专业知识要求较低，对思维能力创新能力要求较高。欢迎感兴趣的同学投递简历至floodsung at gmail dot com Prompt研发实习生 职位描述 1. 负责基于大语言模型做Prompt Engineering，创造更高效的Prompt 职位要求： 1. 985或top200计算机专业，优秀本科或硕士生，对于大模型有所了解并感兴趣。 2. 逻辑思维强，具有良好的分析和解决问题的能力 3. 英文出色，具备较强的读写能力 4. 有一定的编程基础，熟悉Python等语言，具有良好的代码风格和软件工程思维
+
+
+---
+
+## 知乎的音响好迷你
+
+`link: https://www.zhihu.com/pin/1550220551565881344 · created: 1662381381`
+
+
+知乎的音响好迷你
+
+
+---
+
+## 启元世界训练的四足机器狗在仿真中首次实现了仿生的行走，跑步，跳跃等动作！ 欢迎做RL+Robotics/Physics-
+
+`link: https://www.zhihu.com/pin/1549351659448467457 · created: 1662174221`
+
+
+启元世界训练的四足机器狗在仿真中首次实现了仿生的行走，跑步，跳跃等动作！ 欢迎做RL+Robotics/Physics-based Animation方向，对此感兴趣的同学 来实习/工作！
+
+
+---
+
+## 我们开源了TimeChamber 链接 ，基于isaacgym的大规模self-play 框架，只要有一个gpu，你就可
+
+`link: https://www.zhihu.com/pin/1548258729384120320 · created: 1661913646`
+
+
+我们开源了TimeChamber 链接 ，基于isaacgym的大规模self-play 框架，只要有一个gpu，你就可以感受完整的大规模self-play 训练！求star，求fork，求contribute！
+
+
+---
+
+## 朋友招一位一起研究深度学习最前沿问题的实习生，一起探索Foundation Models, Transformer Ar
+
+`link: https://www.zhihu.com/pin/1526929697191866368 · created: 1656828408`
+
+
+朋友招一位一起研究深度学习最前沿问题的实习生，一起探索Foundation Models, Transformer Architecture, Out-of-distribution Generalization, Video Prediction. RL 方向的最前沿问题。 关于mentor：mentor是PhD Alumni@MILA, Yoshua的学生，学数学出身（之前跟过菲尔兹奖得主学习过），idea很多， work的也很多。 希望你： 1. 有超强的工程能力，能够很快把idea变成代码和实验结果(非常重要) 2. 有超强的调参和architecture search的直觉，能够高效的improve现在的结果。 3. 对deep learning有持久的热情，有野心想做出真正有影响力的成果。 4. 顶会paper 和 GitHub 贡献至少有一项 能说明自己的能力。 实习时间6个月以上，地点美国硅谷，可以远程，如果暂时不方便可以先合作，时机成熟再正式开始实习。 实习工资$10k/MON 左右。国内同学优先考虑。 实习非急招，位置长期开放给优秀的同学。 邮件请发 gerrytongche@gmail.com，来信请告知微信号
+
+
+---
+
+## 欢迎想实现AGI的同学加入我们！我们在持续招聘 强化学习，大模型，机器人学习相关方向岗位！
+
+`link: https://www.zhihu.com/pin/1526235837667012608 · created: 1656662979`
+
+
+欢迎想实现AGI的同学加入我们！我们在持续招聘 强化学习，大模型，机器人学习相关方向岗位！
+
+
+---
+
+## 链接 DeepMind又攻克了军棋
+
+`link: https://www.zhihu.com/pin/1526207208781574144 · created: 1656656154`
+
+
+链接 DeepMind又攻克了军棋
+
+
+---
+
+## 链接 amazing
+
+`link: https://www.zhihu.com/pin/1525783974441545729 · created: 1656555247`
+
+
+链接 amazing
+
+
+---
+
+## 又一年粽子节快到了，感谢知乎[呲牙]
+
+`link: https://www.zhihu.com/pin/1508538837702230016 · created: 1652443686`
+
+
+又一年粽子节快到了，感谢知乎[呲牙]
+
+
+---
+
+## gtc demo的paper出来了，有兴趣研究的同学欢迎联系交流，也非常欢迎到启元实习，一起推进物理动画ai研究！
+
+`link: https://www.zhihu.com/pin/1505453219337232384 · created: 1651708017`
+
+
+gtc demo的paper出来了，有兴趣研究的同学欢迎联系交流，也非常欢迎到启元实习，一起推进物理动画ai研究！
+
+
+---
+
+## 这应该是国内外第一个面向物理动画ai的岗位，欢迎对物理动画、机器人学习感兴趣的同学加入我们，一起突破技术边界，创造全新可
+
+`link: https://www.zhihu.com/pin/1487469031548096513 · created: 1647420252`
+
+
+这应该是国内外第一个面向物理动画ai的岗位，欢迎对物理动画、机器人学习感兴趣的同学加入我们，一起突破技术边界，创造全新可能😃
+
+
+---
+
+## 链接 A Survey  on Reinforcement Learning Methods in Character 
+
+`link: https://www.zhihu.com/pin/1487364821330460672 · created: 1647395407`
+
+
+链接 A Survey  on Reinforcement Learning Methods in Character Animation
+
+
+---
+
+## [想法的图片]
+
+`link: https://www.zhihu.com/pin/1468902103564947456 · created: 1642993552`
+
+
+[想法的图片]
+
+
+---
+
+## Cheer！
+
+`link: https://www.zhihu.com/pin/1464892451697213440 · created: 1642037576`
+
+
+Cheer！
+
+
+---
+
+## 链接
+
+`link: https://www.zhihu.com/pin/1463818140640030721 · created: 1641781441`
+
+
+链接
+
+
+---
+
+## 链接 AI能解高等数学题了。
+
+`link: https://www.zhihu.com/pin/1461653601218732032 · created: 1641265374`
+
+
+链接 AI能解高等数学题了。
+
+
+---
+
+## 链接 openAI 新工作，text2image效果更爆炸了展开
+
+`link: https://www.zhihu.com/pin/1456935127801036800 · created: 1640140403`
+
+
+链接 openAI 新工作，text2image效果更爆炸了展开
+
+
+---
+
+## 链接 webgpt 语言模型开始具备与环境的交互能力了
+
+`link: https://www.zhihu.com/pin/1455125422396215296 · created: 1639708935`
+
+
+链接 webgpt 语言模型开始具备与环境的交互能力了
+
+
+---
+
+## [想法的图片]
+
+`link: https://www.zhihu.com/pin/1454917571446849536 · created: 1639659380`
+
+
+[想法的图片]
+
+
+---
+
+## 感谢知乎的礼物🎁越来越好了😄
+
+`link: https://www.zhihu.com/pin/1454914674575286272 · created: 1639658689`
+
+
+感谢知乎的礼物🎁越来越好了😄
+
+
+---
+
+## 鸵鸟模拟，这个有点酷 链接
+
+`link: https://www.zhihu.com/pin/1454867447605714944 · created: 1639647429`
+
+
+鸵鸟模拟，这个有点酷 链接
+
+
+---
+
+## 链接
+
+`link: https://www.zhihu.com/pin/1453669253245616129 · created: 1639361757`
+
+
+链接
+
+
+---
+
+## [想法的图片]
+
+`link: https://www.zhihu.com/pin/1452984182767497216 · created: 1639198424`
+
+
+[想法的图片]
+
+
+---
+
+## 链接 CLIP+NeRF，很酷的效果
+
+`link: https://www.zhihu.com/pin/1451876318979297281 · created: 1638934288`
+
+
+链接 CLIP+NeRF，很酷的效果
+
+
+---
+
+## 链接
+
+`link: https://www.zhihu.com/pin/1443892643420319744 · created: 1637030832`
+
+
+链接
+
+
+---
+
+## 深度学习从2012年AlexNet开始已经发展接近十年。作为Researcher，我们总是想想出一个特别创新的算法。然而
+
+`link: https://www.zhihu.com/pin/1441728805157515264 · created: 1636514933`
+
+
+深度学习从2012年AlexNet开始已经发展接近十年。作为Researcher，我们总是想想出一个特别创新的算法。然而，Ilya Sutskever的路径则是不断的去验证图中的公式，而这才是这10年最大的创新。
+
+
+---
+
+## 链接 deepmind ceo 新成立一家google旗下的新公司来做AI 药物发现展开
+
+`link: https://www.zhihu.com/pin/1439897180505436160 · created: 1636078239`
+
+
+链接 deepmind ceo 新成立一家google旗下的新公司来做AI 药物发现展开
+
+
+---
+
+## 链接 Robot Learning from Randomized Simulations: A Review
+
+`link: https://www.zhihu.com/pin/1439178251231465472 · created: 1635906833`
+
+
+链接 Robot Learning from Randomized Simulations: A Review
+
+
+---
+
+## 这速度是要比肩Isaac Gym呀
+
+`link: https://www.zhihu.com/pin/1439172953963831296 · created: 1635905570`
+
+
+这速度是要比肩Isaac Gym呀
+
+
+---
+
+## 不曾想象的一个milestone: citation > 2000 期待下一个有影响力的工作💪🏻
+
+`link: https://www.zhihu.com/pin/1439170788553805825 · created: 1635905054`
+
+
+不曾想象的一个milestone: citation > 2000 期待下一个有影响力的工作💪🏻
+
+
+---
+
+## 链接 Mastering Atari Games with Limited Data
+
+`link: https://www.zhihu.com/pin/1438866368371957760 · created: 1635832475`
+
+
+链接 Mastering Atari Games with Limited Data
+
+
+---
+
+## 链接
+
+`link: https://www.zhihu.com/pin/1438807794128916480 · created: 1635818509`
+
+
+链接
+
+
+---
+
+## 链接 Accelerating Robotic Reinforcement Learning via Parameter
+
+`link: https://www.zhihu.com/pin/1438454730750627840 · created: 1635734332`
+
+
+链接 Accelerating Robotic Reinforcement Learning via Parameterized Action Primitives
+
+
+---
+
+## 链接 AlphaStar vs AlphaStar (PvP) & Dev Answered Questions!
+
+`link: https://www.zhihu.com/pin/1438449730904453121 · created: 1635733140`
+
+
+链接 AlphaStar vs AlphaStar (PvP) & Dev Answered Questions!
+
+
+---
+
+## 链接 Max Jaderberg on building agents that can play games they
+
+`link: https://www.zhihu.com/pin/1437026881400541184 · created: 1635393907`
+
+
+链接 Max Jaderberg on building agents that can play games they’ve never seen before
+
+
+---
+
+## Nvidia GTC马上就要来了，可以免费参加哦！ 有很多Metaverse相关的内容值得听！
+
+`link: https://www.zhihu.com/pin/1436730570529771520 · created: 1635323261`
+
+
+Nvidia GTC马上就要来了，可以免费参加哦！ 有很多Metaverse相关的内容值得听！
+
+
+---
+
+## 链接 Sergey Levine 关于unsupervised RL的blog
+
+`link: https://www.zhihu.com/pin/1436297732885082112 · created: 1635220064`
+
+
+链接 Sergey Levine 关于unsupervised RL的blog
+
+
+---
+
+## Mujoco可以pip 安装了
+
+`link: https://www.zhihu.com/pin/1436277200592609280 · created: 1635215169`
+
+
+Mujoco可以pip 安装了
+
+
+---
+
+## 链接 Google 研究员Eric Jang关于基于深度学习构建AGI的相关想法
+
+`link: https://www.zhihu.com/pin/1435915138616053760 · created: 1635128847`
+
+
+链接 Google 研究员Eric Jang关于基于深度学习构建AGI的相关想法
+
+
+---
+
+## 从今天开始在知乎想法这里分享我看到的AGI，Metaverse及Robotic Revolution相关进展，特别是最新
+
+`link: https://www.zhihu.com/pin/1435914903098355712 · created: 1635128790`
+
+
+从今天开始在知乎想法这里分享我看到的AGI，Metaverse及Robotic Revolution相关进展，特别是最新的paper，主要涉及深度强化学习，计算机图形学，游戏AI，机器人学习等，欢迎大家关注！
+
+
+---
+
+## 知乎太良心啦！大家中秋快乐🎑
+
+`link: https://www.zhihu.com/pin/1423568450052997120 · created: 1632185167`
+
+
+知乎太良心啦！大家中秋快乐🎑
+
+
+---
+
+## 我们隔壁团队在招人，有兴趣的同学可以看一下哈 增长智能算法工程师-机器学习 职位描述 1、参与抖音、头条、国际化短视频等
+
+`link: https://www.zhihu.com/pin/1418180350610276354 · created: 1630900544`
+
+
+我们隔壁团队在招人，有兴趣的同学可以看一下哈 增长智能算法工程师-机器学习 职位描述 1、参与抖音、头条、国际化短视频等全球数亿用户产品的激励算法、策略及机制的设计和研发，支持字节跳动全系产品的增长业务； 2、研究应用 Causal Inference, Uplift Modeling, Reinforcement Learning 等前沿技术，针对各类激励场景设计大规模、通用性的深度学习解决方案，提升核心业务指标； 3、 参与大规模激励算法平台的开发和优化。 职位要求 1、具备强悍的编码能力和扎实的数据结构和算法功底 ； 2、熟悉至少一种主流深度学习编程框架（TensorFlow/Caffe/MXNet），熟悉其底层架构和实现机制，熟悉深度学习算法（CNN/RNN/LSTM等）； 3、熟悉常见的开源组件，参与过高性能在线服务研发者优先； 4、 有大规模海量数据机器学习/数据挖掘/计算广告/搜索引擎相关经验者优先； 5、具备良好的沟通和表达能力，有较好的产品意识者优先。  加分项： 1、有个性化优惠券、智能补贴、智能定价等领域经验者优先； 2、有大规模深度学习模型 Training / Serving 经验者优先。 链接
+
+
+---
+
+## 作为一个游戏开发者，你是否还能忍受粗糙的动画，枯燥的行为树以及对周围世界没有感知的角色？是时候改变它了！ 我们是字节跳动
+
+`link: https://www.zhihu.com/pin/1413474834973741056 · created: 1629778661`
+
+
+作为一个游戏开发者，你是否还能忍受粗糙的动画，枯燥的行为树以及对周围世界没有感知的角色？是时候改变它了！ 我们是字节跳动一个研发游戏角色动画+AI的团队，我们致力于研究业内最top的技术，让动画、物理和AI共同发挥作用，从而创造出逼真且引人入胜的角色。我们的技术将应用在字节内外的各种3A游戏及相关应用中。 目前，我们急召有unity/ue 开发经验，熟练掌握c#/c++，对开发新技术有热情的同学来一起突破角色动画的极限，做角色动画领域的革命者和引领者！ 有兴趣的朋友欢迎联系我！
+
+
+---
+
+## 我们正在探索AI+计算机图形学的前沿技术，急召有unity/ue 开发经验，熟练掌握c#/c++，对开发新技术有热情的同
+
+`link: https://www.zhihu.com/pin/1413463898482069505 · created: 1629776054`
+
+
+我们正在探索AI+计算机图形学的前沿技术，急召有unity/ue 开发经验，熟练掌握c#/c++，对开发新技术有热情的同学！ 有兴趣的朋友欢迎联系我[嘿哈]
+
+
+---
+
+## 我的内推码：3WH3Z2Y 字节跳动校招开始，欢迎申请！ 有兴趣游戏ai团队的同学欢迎联系咨询！
+
+`link: https://www.zhihu.com/pin/1409261937562112000 · created: 1628774228`
+
+
+我的内推码：3WH3Z2Y 字节跳动校招开始，欢迎申请！ 有兴趣游戏ai团队的同学欢迎联系咨询！
+
+
+---
+
+## 郭老师在招面向游戏内容创作的rl人才，有兴趣的同学欢迎投递简历！
+
+`link: https://www.zhihu.com/pin/1396016929962835968 · created: 1625616372`
+
+
+郭老师在招面向游戏内容创作的rl人才，有兴趣的同学欢迎投递简历！
+
+
+---
+
+## 航海王热血航线流水破亿了！
+
+`link: https://www.zhihu.com/pin/1371117646000369665 · created: 1619679920`
+
+
+航海王热血航线流水破亿了！
+
+
+---
+
+## isaac gym 一个A100 Gpu等价于125000 cpu集群，这太惊人了。机器人的未来一定是它！
+
+`link: https://www.zhihu.com/pin/1365606442205163520 · created: 1618365947`
+
+
+isaac gym 一个A100 Gpu等价于125000 cpu集群，这太惊人了。机器人的未来一定是它！
+
+
+---
+
+## 我们字节跳动强化学习团队在招聘实习生做深度强化学习Deep Reinforcement Learning的顶级研究，特别
+
+`link: https://www.zhihu.com/pin/1358009605675679744 · created: 1616554720`
+
+
+我们字节跳动强化学习团队在招聘实习生做深度强化学习Deep Reinforcement Learning的顶级研究，特别是Multi Agent Learning，Exploration，Diversity，Communication/Language等方向，以发paper为主。 如果你对相关方向感兴趣，有rl相关理论及工程经验，代码能力够硬，欢迎直接通过链接投递简历！ 链接
+
+
+---
+
+## 黄峥或许有希望改变一下现状
+
+`link: https://www.zhihu.com/pin/1355832968821219328 · created: 1616035769`
+
+
+黄峥或许有希望改变一下现状
+
+
+---
+
+## 今天和同事聊天聊到当年中国那么穷砸锅卖铁也要搞原子弹氢弹，而现在中国已经非常有钱，特别是这么多互联网巨头，却没有那种精神
+
+`link: https://www.zhihu.com/pin/1355504604512141312 · created: 1615957481`
+
+
+今天和同事聊天聊到当年中国那么穷砸锅卖铁也要搞原子弹氢弹，而现在中国已经非常有钱，特别是这么多互联网巨头，却没有那种精神去突破人类的技术边界，去作为AI的领头羊去推动技术的进步。如果OpenAI可以砸10亿美金，20亿美金去搞研究，那么中国是不是可以联合所有巨头砸100亿美金甚至更多去搞呢？去联合最最顶级的科学家，做出下一个AlphaStar，GPT-3，AlphaFold这样的突破性成果？
+
+
+---
+
+## 目前基于深度强化学习的游戏AI的精髓也就在下面这个思维导图里了
+
+`link: https://www.zhihu.com/pin/1354806745739575297 · created: 1615791099`
+
+
+目前基于深度强化学习的游戏AI的精髓也就在下面这个思维导图里了
+
+
+---
+
+## 急召实习生哦，看到就投吧
+
+`link: https://www.zhihu.com/pin/1337833388330008576 · created: 1611744335`
+
+
+急召实习生哦，看到就投吧
+
+
+---
+
+## 欢迎加入哦
+
+`link: https://www.zhihu.com/pin/1329536979038515200 · created: 1609766317`
+
+
+欢迎加入哦
+
+
+---
+
+## 希望知乎恢复原来的专栏设置，可以多作者共同运营一个专栏，对标medium。我原来的专栏现在却没办法写了，这是个bug
+
+`link: https://www.zhihu.com/pin/1313432404913160192 · created: 1605926687`
+
+
+希望知乎恢复原来的专栏设置，可以多作者共同运营一个专栏，对标medium。我原来的专栏现在却没办法写了，这是个bug
+
+
+---
+
+## 强化学习实习生招聘ing，这里有你想不到的牛人，有各种游戏场景让你玩耍，想做机器人学习或其他强化学习场景也都可以哦 欢迎
+
+`link: https://www.zhihu.com/pin/1310156518856040448 · created: 1605145655`
+
+
+强化学习实习生招聘ing，这里有你想不到的牛人，有各种游戏场景让你玩耍，想做机器人学习或其他强化学习场景也都可以哦 欢迎直接扫码投递
+
+
+---
+
+## #红包派对 我刚刚领取了 Naiyan Wang 的红包，你也来领一个吧～ >>> http://s.zhihu.com
+
+`link: https://www.zhihu.com/pin/1192494993191923712 · created: 1577092961`
+
+
+#红包派对 我刚刚领取了 Naiyan Wang 的红包，你也来领一个吧～ >>> http://s.zhihu.com/B0YuL
+
+
+---
+
+## #红包派对 我刚刚派发了一个红包，快来我的主页领取吧~>>> Flood Sung
+
+`link: https://www.zhihu.com/pin/1192474197392470016 · created: 1577088003`
+
+
+#红包派对 我刚刚派发了一个红包，快来我的主页领取吧~>>> Flood Sung
+
+
+---
+
+## #红包派对 我刚刚领取了 AlphaSue 的红包，你也来领一个吧～ >>> http://s.zhihu.com/B0
+
+`link: https://www.zhihu.com/pin/1192466299186511872 · created: 1577086120`
+
+
+#红包派对 我刚刚领取了 AlphaSue 的红包，你也来领一个吧～ >>> http://s.zhihu.com/B0YuL
+
+
+---
+
+## #红包派对 我刚刚领取了 周博磊 的红包，你也来领一个吧～ >>> http://s.zhihu.com/B0YuL
+
+`link: https://www.zhihu.com/pin/1192466227975671808 · created: 1577086103`
+
+
+#红包派对 我刚刚领取了 周博磊 的红包，你也来领一个吧～ >>> http://s.zhihu.com/B0YuL
+
+
+---
+
+## #红包派对 我刚刚领取了 陈然 的红包，你也来领一个吧～ >>> http://s.zhihu.com/B0YuL
+
+`link: https://www.zhihu.com/pin/1192465695571537920 · created: 1577085976`
+
+
+#红包派对 我刚刚领取了 陈然 的红包，你也来领一个吧～ >>> http://s.zhihu.com/B0YuL
+
+
+---
+
+## 启元世界校招开始啦！想搞好玩的，有意思的强化学习的童鞋赶紧来吧！
+
+`link: https://www.zhihu.com/pin/1157730870382215168 · created: 1568804549`
+
+
+启元世界校招开始啦！想搞好玩的，有意思的强化学习的童鞋赶紧来吧！
+
+
+---
+
+## 我们也将挑战星际争霸2了！
+
+`link: https://www.zhihu.com/pin/1145674965302079488 · created: 1565930197`
+
+
+我们也将挑战星际争霸2了！
+
+
+---
+
+## 欢迎大家关注本人新开的公众号！和大家更快速的分享AI最前沿😃
+
+`link: https://www.zhihu.com/pin/1030429648169095168 · created: 1538453572`
+
+
+欢迎大家关注本人新开的公众号！和大家更快速的分享AI最前沿😃
+
+
+---
+
+## 目前的drl很依赖于大规模的分布式训练，无论是alphago还是dota还是机械臂，如何搭建框架值得学习借鉴！
+
+`link: https://www.zhihu.com/pin/1010565777300148224 · created: 1533717656`
+
+
+目前的drl很依赖于大规模的分布式训练，无论是alphago还是dota还是机械臂，如何搭建框架值得学习借鉴！
+
+
+---
+
+## deepmind这篇结合神经科学的meta rl分析文章说明了meta rl在神经科学是有理论基础的，人的多巴胺形成了m
+
+`link: https://www.zhihu.com/pin/966296203063926784 · created: 1523162967`
+
+
+deepmind这篇结合神经科学的meta rl分析文章说明了meta rl在神经科学是有理论基础的，人的多巴胺形成了model free learning 而人的前额叶皮质则形成了model based learning。而meta rl兼具两者，实际上是在model free learning的过程兼具学习了model，并反过来利用model来推进快速model free learning！ 链接
