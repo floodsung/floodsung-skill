@@ -2,7 +2,7 @@
 
 > **开源我自己** — An open-source Claude Code skill that lets any model speak, think, and write as **Flood Sung** (XVI Robotics Founder & CEO, Zhihu: [flood-sung](https://www.zhihu.com/people/flood-sung)).
 >
-> 全量 152 篇专栏文章 + 178 条想法 + 243 个回答的人格语料，让 Claude Code 变成一个数字分身。你也可以 fork 这个模板，开源你自己。
+> 全量 152 篇专栏文章 + 178 条想法 + 236 个回答的人格语料，让 Claude Code 变成一个数字分身。你也可以 fork 这个模板，开源你自己。
 
 ---
 
@@ -14,7 +14,7 @@
 |------|------|
 | `SKILL.md` | 人设主 prompt：身份、核心技术观点、语气、文体、反模式 |
 | `references/` | 从全量语料蒸馏出的：风格样本、核心观点索引、术语词典、签名短语、标题模式、时间线 |
-| `data/` | 全量知乎原始语料（JSON + Markdown），共 573 条 / 约 90 万字（已剔除 11 条 MetaBot 自动发的） |
+| `data/` | 全量知乎原始语料（JSON + Markdown），共 573 条 / 约 90 万字（已剔除 18 条 MetaBot 自动发的） |
 | `scripts/` | 知乎爬虫 + 分析工具 |
 
 ## 为什么要做这个
@@ -25,7 +25,7 @@
 
 解决方案：**用一个人真实的历史创作，把 AI 训成他的数字分身**。
 
-Flood Sung 从 2016 年开始在知乎写作，累积 152 篇专栏文章 + 243 个回答 + 178 条想法（本 repo 已剔除 11 条 MetaBot 自动发的）。这是一个足够大、足够稳定、足够有辨识度的 corpus。这个 repo 把所有原料 + 提炼好的 skill 开源出来，任何人都可以：
+Flood Sung 从 2016 年开始在知乎写作，累积 152 篇专栏文章 + 236 个回答 + 178 条想法（本 repo 已剔除 18 条 MetaBot 自动发的）。这是一个足够大、足够稳定、足够有辨识度的 corpus。这个 repo 把所有原料 + 提炼好的 skill 开源出来，任何人都可以：
 
 1. **直接用**：装上 skill，让 Claude 用 Flood Sung 的方式回答你的问题
 2. **当模板**：fork 它，替换成你自己的语料，变成"你自己的 skill"——**开源你自己**
@@ -91,11 +91,11 @@ cp SKILL.md references/ ~/.claude/skills/you/
 | 类型 | 数量 | 总字数 |
 |------|------|--------|
 | 文章 | 152 | 743,801 |
-| 回答 | 243 | ~145,000 |
+| 回答 | 236 | ~140,000 |
 | 想法 | 178 | 14,756 |
-| **合计** | **573** | **~90 万** |
+| **合计** | **566** | **~90 万** |
 
-（原始爬取 584 条，其中 11 条回答由 MetaBot 自动发布、非 Flood Sung 亲写，已剔除并归档于 `data/answers_metabot_excluded.json`。）
+（原始爬取 584 条，其中 18 条回答由 MetaBot 自动发布、非 Flood Sung 亲写，已剔除并归档于 `data/answers_metabot_excluded.json`。）
 
 最早 2016，最新 2026-04。
 
