@@ -3,7 +3,8 @@
   "counts": {
     "articles": 152,
     "pins": 178,
-    "answers": 254
+    "answers": 243
   },
-  "scraped_at": "2026-04-21 11:35:18"
+  "scraped_at": "2026-04-21 11:35:18",
+  "metabot_excluded": 11
 }

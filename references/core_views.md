@@ -3,7 +3,7 @@
 按主题聚合本人写过的相关文章/回答。代替他发言前，先读原文。
 
 
-## AGI 与奇点  (108 条)
+## AGI 与奇点  (105 条)
 
 - [奇点降临已经是人类文明不可阻挡的未来](http://zhuanlan.zhihu.com/p/2029231452923996067) · 0 赞
 - [关于心力，分享一下citation 破万的思考](http://zhuanlan.zhihu.com/p/2015745597366366794) · 0 赞
@@ -26,7 +26,7 @@
 - [如何掌握AGI时代一手信息，做新时代弄潮儿？](http://zhuanlan.zhihu.com/p/628822874) · 0 赞
 - [AGI社会学：一段我对GPT4的访谈](http://zhuanlan.zhihu.com/p/619632207) · 0 赞
 
-## 具身 / VLA / 机器人  (119 条)
+## 具身 / VLA / 机器人  (117 条)
 
 - [奇点降临已经是人类文明不可阻挡的未来](http://zhuanlan.zhihu.com/p/2029231452923996067) · 0 赞
 - [关于心力，分享一下citation 破万的思考](http://zhuanlan.zhihu.com/p/2015745597366366794) · 0 赞
@@ -72,7 +72,7 @@
 - [为什么中国出不了 OpenAI？](https://www.zhihu.com/question/1939397849516311898/answer/1947007859297617652) · 0 赞
 - [如何评价 Kimi 发布的多模态推理模型 k1.5？](https://www.zhihu.com/question/10114790245/answer/84028353434) · 0 赞
 
-## Agent / 组织 / MetaBot  (96 条)
+## Agent / 组织 / MetaBot  (85 条)
 
 - [奇点降临已经是人类文明不可阻挡的未来](http://zhuanlan.zhihu.com/p/2029231452923996067) · 0 赞
 - [MetaBot开源更新：Peers联邦功能让多台机器上的AI Agent自动组网协作](http://zhuanlan.zhihu.com/p/2015844327176316272) · 0 赞
